@@ -1,0 +1,13 @@
+[Unit]
+Description=Twitch Chat Notification
+After=graphical.target
+
+[Service]
+Environment="DISPLAY=:0.0"
+Environment="XAUTHORITY=/home/pi/.Xauthority"
+WorkingDirectory=/home/pi/chatnotification
+ExecStart=/home/pi/chatnotification/launch_chat.sh
+User=pi
+
+[Install]
+WantedBy=graphical.target

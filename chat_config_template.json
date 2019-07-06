@@ -1,0 +1,5 @@
+{
+  "token": "oauth:<Your Key here>",
+  "user" : "YourBotUser",
+  "channel" : "YourTwitchChannel"
+}

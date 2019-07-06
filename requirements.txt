@@ -1,0 +1,8 @@
+guizero==0.6.1
+numpy==1.16.2
+pendulum==2.0.4
+Pillow==5.4.1
+pydle==0.9.1
+python-dateutil==2.8.0
+pytzdata==2018.9
+six==1.12.0
