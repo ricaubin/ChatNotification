@@ -104,4 +104,4 @@ See also the list of [contributors](https://github.com/ricaubin/ChatNotification
 
 ## License
 
-See the [LICENSE.md](LICENSE.md) file for details
+See the [LICENSE](LICENSE) file for details
