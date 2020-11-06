@@ -1,0 +1,4 @@
+/venv/
+/chat_config.json
+.idea
+*.pyc
